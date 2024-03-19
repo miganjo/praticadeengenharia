@@ -20,6 +20,8 @@ Explore os Guias do GitHub para obter informações adicionais.
 Lembre-se de que a prática é essencial para aprender! Divirta-se na aula e bons estudos! 🚀
 
 N1 = int(input("digite o primeiro numero : "))
+
 N2 = int(input("digite o segundo numero  : "))
+
 soma = N1 + N2
 print(soma)
